@@ -32,6 +32,7 @@ ALLOWED_HOSTS = [
     '10.0.2.2',
     '192.168.56.1',
     '192.168.1.100',  # Replace with your actual local IP if needed
+    'blinkbox-api.onrender.com'
 ]
 
 # Application definition
