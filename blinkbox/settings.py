@@ -83,7 +83,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
     "http://192.168.1.100:8000",
     "http://localhost:8000",
-    'blinkbox-api.onrender.com'
+    "http://blinkbox-api.onrender.com"
 ]
 
 WSGI_APPLICATION = 'blinkbox.wsgi.application'
